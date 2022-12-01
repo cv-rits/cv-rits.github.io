@@ -1,3 +1,3 @@
-## Computer Vision RITS, Inria Paris
+## Computer Vision, Inria Paris
 
-Repository listing all opensource project of Computer Vision group (RITS team, Inria Paris)
+We have moved our group website to: https://github.com/astra-vision
